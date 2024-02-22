@@ -13,7 +13,7 @@ body {
 }
 .first {
     position: fixed;
-    margin: 500px 600px;
+    margin: 0px 10px 10px 0px;
 }
 .first a {
     background-color: black;
@@ -483,8 +483,8 @@ span {
 }
 @media(max-width:576px) {
     .first {
-        margin-top: 950px;
-        margin-left: 260px;
+        margin-right: 10px;
+        margin-bottom: 10px;
     }
     .content1 .right {
         display: none;
