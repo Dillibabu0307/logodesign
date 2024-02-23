@@ -18,7 +18,7 @@ body {
 }
 .first a {
     background-color: black;
-    border-radius: 100px;
+    border-radius: 100%;
     padding: 16px 12px;
     color: white;
 }
